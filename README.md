@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently I'm helping out with some school software called Candle. That takes most of my spare time, so I don't have lots of time for the things I used to. 😉😜
+Currently I'm helping out with some school software called Candle. ([candle.cloud](https://candle.cloud)) That takes most of my spare time, so I don't have lots of time for the things I used to. 😉😜
 
 That aside I'm crazy about code and trying to learn C++ and Assembler while my day job involves C#, (mostly) Kotlin, Java, JavaScript, Html, CSS, Postgres, and... you know the rest. I'm a full stacker. 😊🥪 That likes lunchtime best. 🍔🍕🍟🍰🦐
