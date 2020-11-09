@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Micah here.
 
 <!--
 **LuvForAirplanes/LuvForAirplanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently I'm helping out with some school software called Candle. That takes most of my spare time, so I don't have lots of time for the things I used to. 😉😜
+
+That aside I'm crazy about code and trying to learn C++ and Assembler while my day job involves C#, (mostly) JavaScript, Html, CSS, Postgres, and... you know the rest.
