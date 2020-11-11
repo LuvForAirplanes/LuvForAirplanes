@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Currently I'm helping out with some school software called Candle. ([candle.cloud](https://candle.cloud)) That takes most of my spare time, so I don't have lots of time for the things I used to. 😉😜
 
 That aside I'm crazy about code and trying to learn C++ and Assembler while my day job involves C#, (mostly) Kotlin, Java, JavaScript, Html, CSS, Postgres, and... you know the rest. I'm a full stacker. 😊🥪 That likes lunchtime best. 🍔🍕🍟🍰🦐
+
+I'm 16 years-old, and just got my driver's permit. Coding was first love at age 10, and I've been hard at it ever since.
