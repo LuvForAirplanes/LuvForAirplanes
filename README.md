@@ -19,4 +19,4 @@ Currently I'm helping out with some school software called Candle. ([olivetree.s
 
 That aside I'm crazy about code and trying to learn C++ and Assembler while my day job involves C#, (mostly) Kotlin, Java, JavaScript, Html, CSS, Postgres, and... you know the rest. I'm a full stacker. 😊🥪 That likes lunchtime best. 🍔🍕🍟🍰🦐
 
-I'm 16 years-old, and just got my driver's license. Coding was first love at age 10, and I've been hard at it ever since.
+I'm 17 years-old, and loving life to the fullest. Coding was first love at age 10, and I've been hard at it ever since.
